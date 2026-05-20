@@ -23,6 +23,8 @@ description: >-
   developer portal has been identified at the parent company level.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/rithm-capital-corp
   - type: Website
     url: https://www.rithmcap.com/
   - type: Investors
